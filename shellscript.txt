@@ -1,0 +1,2 @@
+#! -- shebang
+cat /etc/shells -- list all shells
